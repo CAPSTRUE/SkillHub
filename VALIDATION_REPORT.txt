@@ -1,0 +1,10 @@
+VALIDATION REPORT - SkillHub question bank answer variation v2
+Total questions: 240
+Updated files: azure-infrastructure__azure-backup.js, azure-infrastructure__monitoracao-e-observabilidade.js, managed-services__azure-insights.js, managed-services__azure-monitor.js, managed-services__zabbix.js, modern-work__powershell.js
+Rule: correct answer has exactly 1 comma; wrong alternatives have 0 or 2+ commas.
+Comma validation errors: 0
+Correct answer length distribution among alternatives:
+ - correct is longest: 37
+ - correct is middle-sized: 123
+ - correct is shortest: 80
+Note: distractors were rewritten with mixed short, medium, long and trap-like alternatives.
